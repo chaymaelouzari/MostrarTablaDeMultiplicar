@@ -1,0 +1,2 @@
+C:\Users\Usuario\source\repos\labs\MostrarTablaDeMultiplicar\obj\Debug\MostrarTablaDeMultiplicar.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\labs\MostrarTablaDeMultiplicar\obj\Debug\MostrarTablaDeMultiplicar.csproj.CoreCompileInputs.cache
